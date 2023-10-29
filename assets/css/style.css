@@ -16538,7 +16538,7 @@ input, textarea {
 }
 @media (min-width: 1200px) {
   .hero-slider-single-item .content-box {
-    top: calc(0% + 255px);
+    top: calc(0% + 320px);
     -webkit-transform: translateY(0%) translateX(-50%);
             transform: translateY(0%) translateX(-50%);
   }
